@@ -1,3 +1,5 @@
+NOTE: This has been forked from Joe Ferraro's GitHub repo to ensure Penrod's abilities to research and develop the open source MavensMate Server code.
+
 # [MavensMate](http://mavensmate.com) - Open Source IDEs for Salesforce
 
 ## Update: August 7, 2017
